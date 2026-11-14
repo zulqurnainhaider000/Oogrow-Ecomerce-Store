@@ -1,0 +1,23 @@
+# Backups and temporary files
+*.bak
+*.bak_*
+*.backup.*
+*.tmp
+*~
+Oogrow E Commerce Website
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Logs & Environment
+*.log
+.env
+.env.local
+
+# Node
+node_modules/
+
